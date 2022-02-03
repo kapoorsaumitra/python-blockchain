@@ -1,3 +1,3 @@
 # Simple Blockchain
 
-Creating a Simple Blockchain in Python
+Creating a Simple Blockchain in Python 🐍
